@@ -23,4 +23,4 @@ If a PC or a NPC rolls a Nat 20 for Initiative they have advantage on their firs
 
 
 # #Critical_Hit
-- When a Critical Hit Roll is Rolled (NAT 20), take the max damage of that can be rolled on the Crit and add
+- When a Critical Hit Roll is Rolled (NAT 20), take the max damage of that can be rolled on the Crit and add the normal weapons damage (example: Greataxe does 1D12 damage, Crit would be 24 + 1d12)
