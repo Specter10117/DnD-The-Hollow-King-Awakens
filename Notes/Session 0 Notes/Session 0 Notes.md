@@ -56,9 +56,9 @@ Are real life topics like religion, politics, porn, etc okay at the table?
 
 ### Player Discomfort:
 - What are players not comfortable with?
-	- Toxi: No IRL Racism, No IRL Hate Speech, No Animal Abuse, No descriptive Sex/Rape. No Beastality.
-	- Shadow: No IRL Racism, No IRL Hate Speech, No Animal Abuse, No descriptive Sex/Rape. No Beastality.
-	- Winter: No IRL Racism, No IRL Hate Speech, No Animal Abuse, No descriptive Sex/Rape. No Beastality.
+	- Toxi: No IRL Racism, No IRL Hate Speech, No Animal Abuse, No descriptive Sex/R**e. No Beastality.
+	- Shadow: No IRL Racism, No IRL Hate Speech, No Animal Abuse, No descriptive Sex/R**e. No Beastality.
+	- Winter: No IRL Racism, No IRL Hate Speech, No Animal Abuse, No descriptive Sex/R**e. No Beastality.
 
 ### Game Balance:
 - Game is gonna be fairly balanced, with some unbalanced encounters.
