@@ -1,0 +1,29 @@
+# Barbarian (Path of the Punk Goat)
+**You delved into the dark arts to enhance your ability to control the battlefield and in return got the gift of Goat. Your head transforms into a Goats Head (Can also be another animal with horns or antlers or you can just grow horns/antlers.) You become an expert in crowd control, constantly being able to push your enemies around.**
+- Level 3:
+	- On rage: 
+		- When you hit with your melee you heal for your Proficiency Bonus.
+		- #SlamDown: 
+			- You jump 5 feet into the air Slamming down your melee weapon dealing 1D6 + STR.
+			- On #SlamDown if the target is in the air you drag them down to the ground dealing 1D4 per 5 Feet Bludgeoning Damage.
+				- If target is medium or smaller and on the ground they must contest a DC6+Athletics check with either DEX/STR Targets Choice. On Fail they get either Pushed Up 5 Feet or Pushed Away 5 Feet.
+		- #RushingRam : 
+			- You charge 10 feet in a straight line, stopping early if an object or creature is in your way, on creature hit, if target is medium or smaller they must contest a DC8+Athletics check with either DEX/STR Targets Choice. On Failure the Target goes 5 Feet into the air.
+			- On hit: Can do a 1 handed melee attack as part of the same action.
+			- On hit: Deal 1D8 Piercing Damage.
+- Level 6:
+	- #SlamDown:
+		- Slam Down can now be used as both an Action and a Bonus Action.
+		- Slam Down now will push all enemies, that are medium or smaller, within 5 feet of the initial target.
+			- Surrounding target(s) on the ground that are medium or smaller they must contest a DC3+Athletics check with either DEX/STR Targets Choice. On Fail they get either Pushed Up 5 Feet or Pushed Away 5 Feet.
+	- #RushingRam:
+		- On hit: You can either do #SlamDown or a 2 or 1 handed melee attack.
+- Level 10:
+	- #RushingRam now counts as a melee attack for your healing.
+	- While Raging & Not Wearing Armor: Increase your Move Speed by 5 Feet.
+	- #RushingRam if you hit an enemy with the charge the movement does not count against your Move Speed.
+- Level 14:
+	- #SlamDown now does 1D10 + STR.
+	- 2 handed melee weapons can now be wielded in 1 hand and do full 2 handed damage, but can not be dual wielded, can use a shield. 
+	- Health on Melee hit can now go towards Temp HP if at Max HP (Max of Your Barbarian Level in Temp HP(Max of 20 at lvl 20)).
+
