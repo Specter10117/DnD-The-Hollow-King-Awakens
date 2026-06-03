@@ -122,7 +122,7 @@ Are real life topics like religion, politics, porn, etc okay at the table?
 	- Standard Array
 
 ### Race:
-- obsidian://open?vault=D%26D%20The%20Hollow%20King%20Awakens&file=Rules%2FRaces
+- [Races](https://github.com/Specter10117/DnD-The-Hollow-King-Awakens/blob/main/Rules/Races.md)
 
 ### Tweaking/Reflavor Races:
 Can PCs make tweaks to a race? Such as Reflavor?
@@ -179,10 +179,10 @@ Can PCs make tweaks to a race? Such as Reflavor?
 # Crits
 
 ### Critical Hits:
-- Go to #Critical_Hit
+- Go to [#Critical_Hit](https://github.com/Specter10117/DnD-The-Hollow-King-Awakens/blob/main/Rules/Homebrew%20Rules.md#critical_hit)
 
 ### Critical Failure:
-- Go to #Nat_1
+- Go to [#Nat_1](https://github.com/Specter10117/DnD-The-Hollow-King-Awakens/blob/main/Rules/Homebrew%20Rules.md#rolling-a-nat_1)
 
 ### Critical Success:
 - Your odds of success are basically 100% but not guaranteed.
@@ -200,8 +200,8 @@ Can PCs make tweaks to a race? Such as Reflavor?
 
 
 ### Next Campaign Year:
-Toxi: Late 90s, Early 2000s, or Semi Modern Future
-Shadow: Late 90s, Early 2000s, or Dystopian/Space Travel Future
-Winter: Doesnt Care.
+- Toxi: Late 90s, Early 2000s, or Semi Modern Future.
+- Shadow: Late 90s, Early 2000s, or Dystopian/Space Travel Future.
+- Winter: Doesnt Care.
 
-2000
+Agreed Year: 2000
