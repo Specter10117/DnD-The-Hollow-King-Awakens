@@ -1,0 +1,56 @@
+# Fighter (The Necromancer Fighter)
+**You have seen so much death in your time on the front lines of battle, you have devoloped a way to raise the dead for your advantage, while also learning how to mess with your foes minds.**
+- Level 3:
+	- #RaisetheDead: Once per Long Rest you can raise the dead as an Action.
+		- You raise your enemies slain in battle (within 30 Feet of you) back as a zombie.
+			- The total number you can raise is equal to your Proficiency Bonus.
+			- If there are no dead enemies within 30 Feet of you, can choose between you don't expend a use, but still use an action, or summon 1 zombie right next to you.
+			- They can only do basic attacks
+				- Attack & Damage equals your Unarmed Strike.
+			- HP equals 1.
+			- Explodes on Death dealing 1D4 Force Damage per Target within 5 Feet of Zombie (Enemies and Allies).
+				- Once combat is over they all explode.
+			- Zombies share their movement and actions.
+				- You command what they do.
+				- Zombies get a total of 20 Feet of Move Speed.
+				- All Zombies are played within 1 initiative turn.
+		- While you have a Zombie up You have resistance to Nonmagical Bludgeoning, Piercing, and Slashing damage.
+		- Raise the Dead last for 1 Minute. It ends early if you are knocked unconscious or as a bonus action end it.
+	- #BrainFog : Once Per Turn On a successful melee hit, you can make the target succeed a  DC10 + (Intelligence, or Wisdom or Charisma, Players Choice) Check with either Intelligence, or Wisdom or Charisma, Targets Choice.
+		- On Failure: You have advantage on all Intelligence, Wisdom and Charisma Rolls you do against this target. (Lasts until Your Next Turn)
+			- On Failure: You give the target disadvantage on all Intelligence, Wisdom and Charisma Throws (Lasts until Your Next Turn)
+			or 
+			- they can take 1D4 Necrotic Damage.
+	- On Long Rest You can choose one of these options:
+		- #FlyingSkull :
+			- You gain a Flying Skull Companion that can do actions as part of your Bonus Action.
+				- Start with 1 Skull and at Level 10 you get a Second Skull
+				- HP = Your Proficiency + Constitution Modifier
+					- You regain 1 of your #FlyingSkull on Short Rest if it dies, they also heal to full HP on Short Rest.
+						- Regain all Flying Skulls on a Long Rest.
+				- Reaction: Flying Skull can Sacrifice itself to save you from a fatal hit.
+					- You can only use this once (1) per Long Rest.
+				- Flying Skull can do a Basic Attack as your Bonus Action.
+					 - Attack & Damage equals your Unarmed Strike.
+				- While the Flying Skull is alive you heal off the Live essence of the fallen.
+					- When an ally or enemy dies within 10 Feet of you, you heal for your Proficiency Bonus.
+					- Works with #RaisetheDead Zombies but is half as effective.
+		- #HandsfromBelow : 
+			- Once per Short Rest you can summon a wall of Hands in a 15 foot line (25 Feet at Level 10) on the ground, spot must be unoccupied. If an enemy walks into the wall they must succeed a grapple check or be grappled by the hands.
+			- Last for 1 minute. It ends early if you are knocked unconscious or as a bonus action end it, or it dies.
+			- Can only have a max of 1 active at a time.
+			- HP: Equals your Proficiency Bonus + Con Modifier.
+- Level 7:
+	- Once per turn #FlyingSkull now removes 5 Feet of Move Speed off the target if Hit until your next turn.
+	- #HandsfromBelow now deals 1D4 damage every round when ever a target is grappled by it.
+	- #RaisetheDead Zombies now have a Move Speed of 30 Feet.
+- Level 10:
+	- Get 2 #FlyingSkull Friends.
+	- #HandsfromBelow is now 25 Feet.
+	- Your summons can now trigger #BrainFog.
+- Level 15:
+	- #RaisetheDead now deals 1D6 Force Damage on Explode.
+	- You can now absorb the Life Essence of the Fallen Through your Summons (10 Feet Away) ( #FlyingSkull, #RaisetheDead).
+- Level 18:
+	- You now have 4 #HandsfromBelow per Short Rest and can now place 2 #HandsfromBelow at once.
+	- You can now #RaisetheDead Twice per Short Rest.
