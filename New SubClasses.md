@@ -1,0 +1,123 @@
+# Barbarian
+- Level 3:
+	- On rage: 
+		- When you hit with your melee you heal for your Proficiency Bonus.
+		- #SlamDown: 
+			- You jump 5 feet into the air Slamming down your melee weapon dealing 1D6 + STR.
+			- On #SlamDown if the target is in the air you drag them down to the ground dealing 1D4 per 5 Feet Bludgeoning Damage.
+				- If target is medium or smaller and on the ground they must contest a DC6+Athletics check with either DEX/STR Targets Choice. On Fail they get either Pushed Up 5 Feet or Pushed Away 5 Feet.
+		- #RushingRam : 
+			- You charge 10 feet in a straight line, stopping early if an object or creature is in your way, on creature hit, if target is medium or smaller they must contest a DC8+Athletics check with either DEX/STR Targets Choice. On Failure the Target goes 5 Feet into the air.
+			- On hit: Can do a 1 handed melee attack as part of the same action.
+			- On hit: Deal 1D8 Piercing Damage.
+- Level 6:
+	- #SlamDown:
+		- Slam Down can now be used as both an Action and a Bonus Action.
+		- Slam Down now will push all enemies, that are medium or smaller, within 5 feet of the initial target.
+			- Surrounding target(s) on the ground that are medium or smaller they must contest a DC3+Athletics check with either DEX/STR Targets Choice. On Fail they get either Pushed Up 5 Feet or Pushed Away 5 Feet.
+	- #RushingRam:
+		- On hit: You can either do #SlamDown or a 2 or 1 handed melee attack.
+- Level 10:
+	- #RushingRam now counts as a melee attack for your healing.
+	- While Raging & Not Wearing Armor: Increase your Move Speed by 5 Feet.
+	- #RushingRam if you hit an enemy with the charge the movement does not count against your Move Speed.
+- Level 14:
+	- #SlamDown now does 1D10 + STR.
+	- 2 handed melee weapons can now be wielded in 1 hand and do full 2 handed damage, but can not be dual wielded, can use a shield. 
+	- Health on Melee hit can now go towards Temp HP if at Max HP (Max of Your Barbarian Level in Temp HP(Max of 20 at lvl 20)).
+
+
+# Fighter
+- Level 3:
+	- #RaisetheDead: Once per Long Rest you can raise the dead as an Action.
+		- You raise your enemies slain in battle (within 30 Feet of you) back as a zombie.
+			- The total number you can raise is equal to your Proficiency Bonus.
+			- If there are no dead enemies within 30 Feet of you, can choose between you don't expend a use, but still use an action, or summon 1 zombie right next to you.
+			- They can only do basic attacks
+				- Attack & Damage equals your Unarmed Strike.
+			- HP equals 1.
+			- Explodes on Death dealing 1D4 Force Damage per Target within 5 Feet of Zombie (Enemies and Allies).
+				- Once combat is over they all explode.
+			- Zombies share their movement and actions.
+				- You command what they do.
+				- Zombies get a total of 20 Feet of Move Speed.
+				- All Zombies are played within 1 initiative turn.
+		- While you have a Zombie up You have resistance to Nonmagical Bludgeoning, Piercing, and Slashing damage.
+		- Raise the Dead last for 1 Minute. It ends early if you are knocked unconscious or as a bonus action end it.
+	- #BrainFog : Once Per Turn On a successful melee hit, you can make the target succeed a  DC10 + (Intelligence, or Wisdom or Charisma, Players Choice) Check with either Intelligence, or Wisdom or Charisma, Targets Choice.
+		- On Failure: You have advantage on all Intelligence, Wisdom and Charisma Rolls you do against this target. (Lasts until Your Next Turn)
+			- On Failure: You give the target disadvantage on all Intelligence, Wisdom and Charisma Throws (Lasts until Your Next Turn)
+			or 
+			- they can take 1D4 Necrotic Damage.
+	- On Long Rest You can choose one of these options:
+		- #FlyingSkull :
+			- You gain a Flying Skull Companion that can do actions as part of your Bonus Action.
+				- Start with 1 Skull and at Level 10 you get a Second Skull
+				- HP = Your Proficiency + Constitution Modifier
+					- You regain 1 of your #FlyingSkull on Short Rest if it dies, they also heal to full HP on Short Rest.
+						- Regain all Flying Skulls on a Long Rest.
+				- Reaction: Flying Skull can Sacrifice itself to save you from a fatal hit.
+					- You can only use this once (1) per Long Rest.
+				- Flying Skull can do a Basic Attack as your Bonus Action.
+					 - Attack & Damage equals your Unarmed Strike.
+				- While the Flying Skull is alive you heal off the Live essence of the fallen.
+					- When an ally or enemy dies within 10 Feet of you, you heal for your Proficiency Bonus.
+					- Works with #RaisetheDead Zombies but is half as effective.
+		- #HandsfromBelow : 
+			- Once per Short Rest you can summon a wall of Hands in a 15 foot line (25 Feet at Level 10) on the ground, spot must be unoccupied. If an enemy walks into the wall they must succeed a grapple check or be grappled by the hands.
+			- Last for 1 minute. It ends early if you are knocked unconscious or as a bonus action end it, or it dies.
+			- Can only have a max of 1 active at a time.
+			- HP: Equals your Proficiency Bonus + Con Modifier.
+- Level 7:
+	- Once per turn #FlyingSkull now removes 5 Feet of Move Speed off the target if Hit until your next turn.
+	- #HandsfromBelow now deals 1D4 damage every round when ever a target is grappled by it.
+	- #RaisetheDead Zombies now have a Move Speed of 30 Feet.
+- Level 10:
+	- Get 2 #FlyingSkull Friends.
+	- #HandsfromBelow is now 25 Feet.
+	- Your summons can now trigger #BrainFog.
+- Level 15:
+	- #RaisetheDead now deals 1D6 Force Damage on Explode.
+	- You can now absorb the Life Essence of the Fallen Through your Summons (10 Feet Away) ( #FlyingSkull, #RaisetheDead).
+- Level 18:
+	- You now have 4 #HandsfromBelow per Short Rest and can now place 2 #HandsfromBelow at once.
+	- You can now #RaisetheDead Twice per Short Rest.
+# Ranger
+- Level 3:
+	- #Assassinate: Your Proficiency per Short Rest you can turn a Hit into a Critical Hit.
+		- If you have advantage when you roll to hit and use this add +2 to the damage.
+	- #CrowFriend : Twice(2) per Long Rest on Short Rest or on Long Rest you can send you Crow Friend out and they will get you 1D4 Gold.
+		- You are friends with all crows.
+			- You can ask any crow you find to scout out ahead for you to see if anyone or anything ahead.
+		- As a Reaction you can summon your Crow Friends to save you from a hit.
+			- Roll 1D8 and add it to your AC
+				-  Can make the attack miss if you roll high enough.
+		- As a Bonus Action you can have your Crow Friends Caw Loudly granting you vision on any hidden targets within 30 feet of you until your next turn, if there are no hidden targets you gain advantage on your next attack on a creature of your choice.
+		- As an Action you can have your Crow Friends attack a target of your choice (within 20 Feet of you) dealing 1D4 Piercing Damage, if in your Favored Terrain it is 1D6 Piercing Damage.
+			- Target must contest a DC10 + Dex + Proficiency on hit, target can use Con or Dex.
+				- On Failure: Target either:
+					- Gets resistance to healing until your next turn.
+					or
+					- Gets disadvantage on all rolls not against you on their next turn.
+	- #Fly: As a Bonus Action Your Crow Friends will lift you up and you can fly up to Your Movement Speed into the air (Your Proficiency amount of times per Short Rest).
+		- While Flying you have advantage on any target below you.
+		- While Flying you have disadvantage on all saving throws and enemies have advantage on attacks against you.
+		- On a failed saving throw while flying, you immediately drop out of the air, taking fall damage if appropriate.
+		- While Flying your move speed is halved.
+		- While Flying you can get to advantageous spots like the top of a tree with advantage on the check.
+		- Flying ends after your next turn(You fall out of the sky at the end of your next turn taking fall damage if applicable.) Can stop flying as an Action or Bonus Action (Players Choice).
+- Level 7:
+	- #Assassinate now does +4 extra damage on advantage.
+	- #Fly you can extend the time in the air until the end of your next turn when ever you get the killing blow on an enemy.
+	- #CrowFriend now can find you 1D8 Gold on Rest.
+- Level 11:
+	- #Assassinate now does +5 extra damage on advantage.
+	- #CrowFriend now does bleed damage on a successful hit.
+		- On a Successful Save: Target only takes half your Proficiency in damage at the start of their turn.
+		- On a Failed Save: Targe takes your Proficiency in damage at the start of their turn for 1 minute.
+	- #Fly No longer halves your Move Speed.
+	- Level 15: 
+		- While in #Fly you now get 2 Attacks per Attack Action.
+		- #Assassinate now does +7 extra damage on advantage and can penetrate the target and hit 1 other target behind the initial target.
+		- #CrowFriend now finds 1D10 Gold on Rest
+			- No Longer needs a Long Rest after 2 Short Rests.
