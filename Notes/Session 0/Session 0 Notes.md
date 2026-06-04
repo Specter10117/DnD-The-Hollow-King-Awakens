@@ -5,7 +5,7 @@
 - Social Interactions
 
 ### Milestones:
-- No (9but kinda?)
+- No (but kinda?)
 
 ### Leveling Up:
 - Between Game Sessions
