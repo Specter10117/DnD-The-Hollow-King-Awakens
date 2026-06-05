@@ -16,7 +16,7 @@
 ### Cellphones & Other Devices:
 - As long as it is not distracting you and especially others I am ok with it.
 ### Player Attention:
-- Every time I have to try and get your attention, I will subtract EXP from your progression.
+- If I constantly have to try and get your attention, I will subtract EXP from your progression.
 	- I am ok with it if it's an emergency, or something out of your control.
 
 ### Disruptive Topics:
