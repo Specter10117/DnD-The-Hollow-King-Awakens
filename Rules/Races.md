@@ -5,6 +5,7 @@
 - Goblin
 - Hobgoblin
 - Kobold
+- Lupin
 
 ## Companions
 - Wolves
