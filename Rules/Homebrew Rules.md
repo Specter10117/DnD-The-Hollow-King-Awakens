@@ -81,6 +81,7 @@ If a PC or a NPC rolls a Nat 20 for Initiative they have advantage on their firs
 
 # Resurrection:
 - If a PC dies the party can resurrect them if that PC agrees to it.
+	- PC getting resurrected can also resurrect as their new Character. 
 
 # Short Rests:
 - Default Rules
