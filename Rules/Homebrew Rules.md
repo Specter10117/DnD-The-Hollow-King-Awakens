@@ -94,7 +94,7 @@ If a PC or a NPC rolls a Nat 20 for Initiative they have advantage on their firs
    - A player can decide to do max crit damage or roll normally against a naturally willing creature.
 
 # Stowing and Wielding
-- Stowing and/or Wielding a weapon does not use an action or bonus action. You can swap weapons freely once per turn.
+- Stowing and/or Wielding a weapon does not use an action or bonus action. You can swap weapons freely once per round.
 
 # Over-Encumbrance
 - You can’t become overweight.
