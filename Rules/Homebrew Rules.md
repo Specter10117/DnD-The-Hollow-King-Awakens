@@ -48,6 +48,8 @@ If a PC or a NPC rolls a Nat 20 for Initiative they have advantage on their firs
 
 ### Stacking:
 - No Stacking
+	- But! You are able to drop an Advantage Roll to Disadvantage with having 2 more Disadvantage giving effects than Advantage.
+		- Example: If you are a Barbarian and you Reckless Attack you give all enemies Advantage against you until your next turn (1 Effect Giving Advantage), but if you dodge as an action and have an item that gives Disadvantage, like the Cloak of Displacement, you give all attacks against you Disadvantage while both are true.
 
 ### Giving Aid:
 - Just gives advantage.
