@@ -74,7 +74,7 @@ If a PC or a NPC rolls a Nat 20 for Initiative they have advantage on their firs
 # Death, Resurrection, Resting
 
 ### Death:
-- When you die go to #Death 
+- When you die go to [#Death](https://github.com/Specter10117/DnD-The-Hollow-King-Awakens/blob/main/Rules/Homebrew%20Rules.md#death) 
 - If you out right die, you will need to make a new character and be introduced a little bit later (Same Session (most likely))
 	- Your new character can be the same if you so desire. Just change up a few things to not be 100% exact.
 	- You keep all your previous levels.
