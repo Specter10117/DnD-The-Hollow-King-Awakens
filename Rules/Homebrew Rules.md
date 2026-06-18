@@ -29,14 +29,14 @@ If a PC or a NPC rolls a Nat 20 for Initiative they have advantage on their firs
 
 ### Healing Potions
 - Can be a bonus action or an Action (Players Choice)
-- You can expend a full action to heal for the max amount of the potions die roll.
-- You can use a bonus action to consume a healing potion and roll as normal.
+	- You can expend a full action to heal for the max amount of the potions die roll.
+	- You can use a bonus action to consume a healing potion and roll as normal.
 
 ### Downtime/Crafting:
 - If you want to train stats or do crafting of something during downtime, please discuss this with the DM.
 
 ### Party Rolls:
-- When asked you all or a specific use will roll a stat I the DM ask.
+- When asked, you all or a specific player will roll a stat I the DM ask.
 	- I will let players know if they can provide the help action to the roll or if they also can roll.
 
 ### Gaining Inspiration:
