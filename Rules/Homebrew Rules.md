@@ -84,7 +84,7 @@ If a PC or a NPC rolls a Nat 20 for Initiative they have advantage on their firs
 # Long Rests:
 - Default Rules
 
-# # Allowing something to hit you
+# Allowing something to hit you
 - If you allow anything to hit you, you take full crit damage.
    - A player can decide to do max crit damage or roll normally against a naturally willing creature.
 
