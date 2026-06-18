@@ -74,5 +74,27 @@ If a PC or a NPC rolls a Nat 20 for Initiative they have advantage on their firs
 - If you out right die, you will need to make a new character and be introduced a little bit later (Same Session (most likely))
 	- Your new character can be the same if you so desire. Just change up a few things to not be 100% exact.
 	- You keep all your previous levels.
+
 # Resurrection:
 - If a PC dies the party can resurrect them if that PC agrees to it.
+
+# Short Rests:
+- Default Rules
+
+# Long Rests:
+- Default Rules
+
+# # Allowing something to hit you
+- If you allow anything to hit you, you take full crit damage.
+   - A player can decide to do max crit damage or roll normally against a naturally willing creature.
+
+# Stowing and Wielding
+- Stowing and/or Wielding a weapon does not use an action or bonus action. You can swap weapons freely once per turn.
+
+# Over-Encumbrance
+- You can’t become overweight.
+- But DM can question how you plan on carrying something around and give you effects based off DMs discretion.
+
+# Healing Potions
+- You can expend a full action to heal for the max amount of the potions die roll.
+- You can use a bonus action to consume a healing potion and roll as normal.
