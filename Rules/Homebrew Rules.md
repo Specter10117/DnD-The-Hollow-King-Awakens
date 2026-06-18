@@ -2,7 +2,7 @@
 Something bad (not serious) happens to you, if you are rolling for a Skill or an Action Check. Player RPs what happens for their bad roll, Example: Roll a Nat 1 on an Athletics Check, Player RPs or describes what went wrong “I tried to jump up to the roof, but I only jumped up like 5ft and slipped when I landed landing on my butt.” DM would assess what to do with that and either take HP away or give a conditional effect.
 
 
-### Rolling for #Initiative 
+### Rolling for Initiative 
 ###### Rolling a Nat 1 
 If a PC or a NPC rolls a Nat 1 for Initiative they have disadvantage on their first attack roll on the first round.
 ###### Rolling a Nat 20
