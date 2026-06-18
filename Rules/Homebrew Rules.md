@@ -29,6 +29,9 @@ If a PC or a NPC rolls a Nat 20 for Initiative they have advantage on their firs
 
 ### Healing:
 - Can be a bonus action or an Action (Players Choice)
+- # Healing Potions
+	- You can expend a full action to heal for the max amount of the potions die roll.
+	- You can use a bonus action to consume a healing potion and roll as normal.
 
 ### Downtime/Crafting:
 - If you want to train stats or do crafting of something during downtime, please discuss this with the DM.
@@ -95,6 +98,3 @@ If a PC or a NPC rolls a Nat 20 for Initiative they have advantage on their firs
 - You can’t become overweight.
 - But DM can question how you plan on carrying something around and give you effects based off DMs discretion.
 
-# Healing Potions
-- You can expend a full action to heal for the max amount of the potions die roll.
-- You can use a bonus action to consume a healing potion and roll as normal.
