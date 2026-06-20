@@ -2,7 +2,7 @@
 **You delved into the dark arts to enhance your ability to control the battlefield and in return got the gift of Goat. Your head transforms into a Goats Head (Can also be another animal with horns or antlers or you can just grow horns/antlers.) You become an expert in crowd control, constantly being able to push your enemies around.**
 - Level 3:
 	- On rage: 
-		- When you hit with your melee you heal for your Proficiency Bonus.
+		- When you hit with your melee you heal for your Proficiency Bonus while Raging.
 		- #SlamDown: 
 			- You jump 5 feet into the air Slamming down your melee weapon dealing 1D6 + STR.
 			- On #SlamDown if the target is in the air you drag them down to the ground dealing 1D4 per 5 Feet Bludgeoning Damage.
@@ -25,5 +25,5 @@
 - Level 14:
 	- #SlamDown now does 1D10 + STR.
 	- 2 handed melee weapons can now be wielded in 1 hand and do full 2 handed damage, but can not be dual wielded, can use a shield. 
-	- Health on Melee hit can now go towards Temp HP if at Max HP (Max of Your Barbarian Level in Temp HP(Max of 20 at lvl 20)).
+	- Health on Melee hit while Raging can now go towards Temp HP if at Max HP (Max of Your Barbarian Level in Temp HP(Max of 20 at lvl 20)).
 
